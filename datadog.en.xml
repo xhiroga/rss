@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of hiroga</title>
+  </head>
+  <body>
+    <outline text="Datadog" title="Datadog">
+      <!-- Subscription one rss is enough for Datadog. Most part or articles are duplicated beyond rss. -->
+      <!-- <outline text="Blog-rsses on Cloud Monitoring as a Service | Datadog" title="Blog-rsses on Cloud Monitoring as a Service | Datadog" type="rss" xmlUrl="https://www.datadoghq.com/blog/index.xml" htmlUrl="https://www.datadoghq.com/blog/index.xml" /> -->
+      <!-- <outline text="community on Modern monitoring &amp; security" title="community on Modern monitoring &amp; security" type="rss" xmlUrl="https://www.datadoghq.com/ja/blog/community/index.xml" htmlUrl="https://www.datadoghq.com/ja/blog/community/" /> -->
+      <!-- <outline text="pup culture on Modern monitoring &amp; security" title="pup culture on Modern monitoring &amp; security" type="rss" xmlUrl="https://www.datadoghq.com/ja/blog/pup-culture/index.xml" htmlUrl="https://www.datadoghq.com/ja/blog/pup-culture/" /> -->
+      <outline text="engineering on Modern monitoring &amp; security" title="engineering on Modern monitoring &amp; security" type="rss" xmlUrl="https://www.datadoghq.com/ja/blog/engineering/index.xml" htmlUrl="https://www.datadoghq.com/ja/blog/engineering/" />
+    </outline>
+  </body>
+</opml>
