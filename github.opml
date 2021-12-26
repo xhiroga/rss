@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of hiroga</title>
+  </head>
+  <body>
+    <outline text="GitHub" title="GitHub">
+      <!-- <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/" /> -->
+      <outline text="The GitHub Blog – Japan" title="The GitHub Blog – Japan" type="rss" xmlUrl="https://github.blog/jp/feed/" htmlUrl="https://github.blog/jp" />
+    </outline>
+  </body>
+</opml>

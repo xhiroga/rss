@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of hiroga</title>
+  </head>
+  <body>
+    <outline text="Google" title="Google">
+      <!-- <outline text="Cloud Blog" title="Cloud Blog" type="rss" xmlUrl="https://cloudblog.withgoogle.com/rss/" htmlUrl="https://cloud.google.com/blog/" /> -->
+      <outline text="Cloud Blog JA" title="Cloud Blog JA" type="rss" xmlUrl="https://cloudblog.withgoogle.com/ja/rss/" htmlUrl="https://cloud.google.com/blog/ja/" />
+      <!-- <outline text="Google Cloud Platform - Release notes" title="Google Cloud Platform - Release notes" type="rss" xmlUrl="https://cloud.google.com/feeds/gcp-release-notes.xml" htmlUrl="https://cloud.google.com/feeds/gcp-release-notes.xml" /> -->
+      <!-- <outline text="Google Workspace Updates" title="Google Workspace Updates" type="rss" xmlUrl="http://workspaceupdates.googleblog.com/feeds/posts/default" htmlUrl="http://workspaceupdates.googleblog.com/" /> -->
+      <outline text="Google Workspace Updates JA" title="Google Workspace Updates JA" type="rss" xmlUrl="http://workspaceupdates-ja.googleblog.com/feeds/posts/default" htmlUrl="http://workspaceupdates-ja.googleblog.com/" />
+    </outline>
+  </body>
+</opml>
