@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
-  <head>
-    <title>Feeds of hiroga</title>
-  </head>
   <body>
     <outline text="JPCERT/CC" title="JPCERT/CC">
       <outline text="統合版 JPCERT/CC RSS" title="統合版 JPCERT/CC RSS" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/jpcert-all.rdf" htmlUrl="http://www.jpcert.or.jp/" />
