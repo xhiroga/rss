@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- [JNSA - 外部関連リンク](https://www.jnsa.org/link.html)に基づく -->
 <opml version="1.0">
   <body>
-    <outline text="JPCERT/CC" title="JPCERT/CC">
+    <outline text="セキュリティ関連団体" title="セキュリティ関連団体">
+      <outline text="特定非営利活動法人 日本ネットワークセキュリティ協会（JNSA）" title="特定非営利活動法人 日本ネットワークセキュリティ協会（JNSA）" type="rss" xmlUrl="view-source:https://www.jnsa.org/rss.xml" htmlUrl="https://www.jnsa.org/" />
+
+      <!-- サービス事業者のリンク集と教科書的な資料が主。 -->
+      <!-- <outline text="IPA 独立行政法人 情報処理推進機構" title="IPA 独立行政法人 情報処理推進機構" type="rss" xmlUrl="https://www.ipa.go.jp/security/rss/info.rdf" htmlUrl="https://www.ipa.go.jp/security/index.html" /> -->
+      <!-- JPCERTの方がカバーしている製品・サービスが広い印象がある。 -->
+      <!-- <outline text="IPA 独立行政法人 情報処理推進機構" title="IPA 独立行政法人 情報処理推進機構" type="rss" xmlUrl="https://www.ipa.go.jp/security/rss/alert.rdf" htmlUrl="https://www.ipa.go.jp/security/index.html" /> -->
+
       <outline text="統合版 JPCERT/CC RSS" title="統合版 JPCERT/CC RSS" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/jpcert-all.rdf" htmlUrl="http://www.jpcert.or.jp/" />
       <!-- JPCERTのRSSでは、統合版をSubscribeすれば以下3つのフィードをほぼまとめて読むことができる。 -->
       <!-- <outline text="JVNRSS Feed - Update Entry" title="JVNRSS Feed - Update Entry" type="rss" xmlUrl="https://jvn.jp/rss/jvn.rdf" htmlUrl="http://jvn.jp/" /> -->
       <!-- <outline text="JPCERT/CC お知らせ RSS" title="JPCERT/CC お知らせ RSS" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/whatsnew.rdf" htmlUrl="http://www.jpcert.or.jp/" /> -->
       <!-- <outline text="JPCERT/CC RSS Feed" title="JPCERT/CC RSS Feed" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/jpcert.rdf" htmlUrl="http://www.jpcert.or.jp/" /> -->
+
+      <!-- フィッシングメールの件名やドメインが記載されており参考になるが、消費者向けのサイトが多いので業務に直接役立つものではない。 -->
+      <!-- <outline text="フィッシング対策協議会" title="フィッシング対策協議会" type="rss" xmlUrl="https://www.antiphishing.jp/atom.xml" htmlUrl="https://www.antiphishing.jp/" /> -->
     </outline>
   </body>
 </opml>
