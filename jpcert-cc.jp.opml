@@ -5,11 +5,11 @@
   </head>
   <body>
     <outline text="JPCERT/CC" title="JPCERT/CC">
-      <!-- ファームウェアを含む様々な製品の脆弱性情報を得ることができるが、量が多すぎるのでUnsubscribe -->
-      <!-- <outline text="JVNRSS Feed - Update Entry" title="JVNRSS Feed - Update Entry" type="rss" xmlUrl="https://jvn.jp/rss/jvn.rdf" htmlUrl="http://jvn.jp/" /> -->
-      <outline text="JPCERT/CC お知らせ RSS" title="JPCERT/CC お知らせ RSS" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/whatsnew.rdf" htmlUrl="http://www.jpcert.or.jp/" />
-      <outline text="JPCERT/CC RSS Feed" title="JPCERT/CC RSS Feed" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/jpcert.rdf" htmlUrl="http://www.jpcert.or.jp/" />
       <outline text="統合版 JPCERT/CC RSS" title="統合版 JPCERT/CC RSS" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/jpcert-all.rdf" htmlUrl="http://www.jpcert.or.jp/" />
+      <!-- JPCERTのRSSでは、統合版をSubscribeすれば以下3つのフィードをほぼまとめて読むことができる。 -->
+      <!-- <outline text="JVNRSS Feed - Update Entry" title="JVNRSS Feed - Update Entry" type="rss" xmlUrl="https://jvn.jp/rss/jvn.rdf" htmlUrl="http://jvn.jp/" /> -->
+      <!-- <outline text="JPCERT/CC お知らせ RSS" title="JPCERT/CC お知らせ RSS" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/whatsnew.rdf" htmlUrl="http://www.jpcert.or.jp/" /> -->
+      <!-- <outline text="JPCERT/CC RSS Feed" title="JPCERT/CC RSS Feed" type="rss" xmlUrl="https://www.jpcert.or.jp/rss/jpcert.rdf" htmlUrl="http://www.jpcert.or.jp/" /> -->
     </outline>
   </body>
 </opml>
