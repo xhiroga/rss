@@ -5,5 +5,9 @@
       <outline type="rss" text="AWS News Blog" title="AWS News Blog" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="https://aws.amazon.com/blogs/aws/feed" />
       <outline text="Recent Announcements" title="Recent Announcements" type="rss" xmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/feed/" htmlUrl="https://aws.amazon.com/about-aws/whats-new/recent/" />
     </outline>
+    <outline text="AWS (日本語)" title="AWS (日本語)">
+      <outline text="Amazon Web Services ブログ" title="Amazon Web Services ブログ" type="rss" xmlUrl="https://aws.amazon.com/jp/blogs/news/feed/" htmlUrl="https://aws.amazon.com/jp/blogs/news/" />
+      <outline text="Recent Announcements" title="Recent Announcements" type="rss" xmlUrl="https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/" htmlUrl="https://aws.amazon.com/jp/about-aws/whats-new/recent/" />
+    </outline>
   </body>
 </opml>
