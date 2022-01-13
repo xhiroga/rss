@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
-  <head>
-    <title>Feeds of hiroga</title>
-  </head>
   <body>
     <outline text="GitHub" title="GitHub">
       <!-- <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/" /> -->

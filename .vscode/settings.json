@@ -1,0 +1,5 @@
+{
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  // "xml.format.splitAttributesIndentSize": 2 // not works. editor.tabSize is applied.
+}

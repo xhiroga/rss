@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
-    <head>
-        <title>Feeds of hiroga</title>
-    </head>
-    <body>
-        <outline text="Status Pages" title="Status Pages">
-            <outline type="rss" text="CircleCI Status" title="CircleCI Status" htmlUrl="https://status.circleci.com" xmlUrl="https://status.circleci.com/history.rss" />
-            <outline type="rss" text="Discord Status" title="Discord Status" htmlUrl="https://discordstatus.com/" xmlUrl="https://discordstatus.com/history.rss" />
-            <outline type="rss" text="Firebase Status Dashboard" title="Firebase Status Dashboard" htmlUrl="https://status.firebase.google.com/" xmlUrl="https://status.firebase.google.com/feed.atom" />
-            <outline type="rss" text="Google Workspace Status Dashboard" title="Google Workspace Status Dashboard" htmlUrl="https://www.google.com/appsstatus/dashboard/feed.atom" xmlUrl="https://www.google.com/appsstatus/dashboard/feed.atom" />
-            <!-- <outline type="rss" text="Google Workspace ステータス ダッシュボード" title="Google Workspace ステータス ダッシュボード" htmlUrl="https://www.google.com/appsstatus/dashboard/feed.atom" xmlUrl="https://www.google.com/appsstatus/dashboard/ja/feed.atom" /> -->
-            <outline type="rss" text="PAY.JP Status" title="PAY.JP Status" htmlUrl="https://status.pay.jp/" xmlUrl="https://status.pay.jp/history.atom" />
-        </outline>
-    </body>
+  <body>
+    <outline text="Status Pages" title="Status Pages">
+      <outline type="rss" text="CircleCI Status" title="CircleCI Status" htmlUrl="https://status.circleci.com" xmlUrl="https://status.circleci.com/history.rss" />
+      <outline type="rss" text="Discord Status" title="Discord Status" htmlUrl="https://discordstatus.com/" xmlUrl="https://discordstatus.com/history.rss" />
+      <outline type="rss" text="Firebase Status Dashboard" title="Firebase Status Dashboard" htmlUrl="https://status.firebase.google.com/" xmlUrl="https://status.firebase.google.com/feed.atom" />
+      <outline type="rss" text="Google Workspace Status Dashboard" title="Google Workspace Status Dashboard" htmlUrl="https://www.google.com/appsstatus/dashboard/feed.atom" xmlUrl="https://www.google.com/appsstatus/dashboard/feed.atom" />
+      <!-- <outline type="rss" text="Google Workspace ステータス ダッシュボード" title="Google Workspace ステータス ダッシュボード" htmlUrl="https://www.google.com/appsstatus/dashboard/feed.atom" xmlUrl="https://www.google.com/appsstatus/dashboard/ja/feed.atom" /> -->
+      <outline type="rss" text="PAY.JP Status" title="PAY.JP Status" htmlUrl="https://status.pay.jp/" xmlUrl="https://status.pay.jp/history.atom" />
+    </outline>
+  </body>
 </opml>
